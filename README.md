@@ -10,6 +10,7 @@
 - Open Source Software advocacy
 - Computer programming for public health solutions
 - HomeLab server development
+- Radio communications, GMRS: WSAW746
 
 ## 🌱 Currently Learning
 - Linux system administration
@@ -23,6 +24,7 @@
 
 ## 📫 How to Reach Me
 - Professional: glyons@smemsc.org
+- Current VPS contact: apexnova.cloud@gmail.com
 
 ## 😄 Pronouns
 He/him/his
