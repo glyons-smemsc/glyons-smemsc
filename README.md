@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @glyons-smemsc
 
 ## 🚑 Professional Life
-- **EMS Programs Specialist** at my Local EMS Council with 18 years of field experience
+- **EMS Programs Specialist** at my Local EMS Council with 18+ years of field experience
 - **Cardiac Arrest Registry Coordinator** for Pennsylvania
 - Passionate about improving emergency medical systems and data-driven healthcare
 
@@ -24,7 +24,8 @@
 
 ## 📫 How to Reach Me
 - Professional: glyons@smemsc.org
-- Current VPS contact: apexnova.cloud@gmail.com
+- Current VPS contact: admin@apexnova.cloud
+- Development contact: dev@apexnova.cloud
 
 ## 😄 Pronouns
 He/him/his
