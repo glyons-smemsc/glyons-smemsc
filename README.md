@@ -20,20 +20,20 @@
 ## 🤝 Collaboration
 - Not actively seeking projects at the moment
 - Open to mentorship opportunities (especially in Linux/Open Source)
-- Interested in EMS-related tech projects, prepardness, disaster Comms
+- Interested in EMS-related tech projects, preparedness, disaster Comms
 
 ## 📫 How to Reach Me
 - Professional: glyons@smemsc.org
 - Current VPS contact: admin@apexnova.cloud
 - Development contact: dev@apexnova.cloud
 
-## 😄 Pronouns
+## 👦🏻 Pronouns
 He/him/his
 
 ## ⚡ Fun Facts
   - "I once deployed a Raspberry Pi as an emergency communications device during a disaster drill"
   - "I can recite the NATO phonetic alphabet backwards while starting IVs"
-  - "My HomeLab has survived three power outages and a curious black cat"
+  - "My HomeLab has survived ~~three~~ four power outages and a curious black cat named Mr. Kitty 🐈‍⬛"
 
 ## 🛠️ Tech Stack
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
