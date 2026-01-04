@@ -1,0 +1,12 @@
+{
+  "opencode.apiUrl": "https://opencode.ai/api",
+  "opencode.enabled": true,
+  "opencode.showMenuOnCommandPalette": true,
+  "opencode.keyboardShortcut": "ctrl+p",
+  "workbench.colorTheme": "Default",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  }
+}
